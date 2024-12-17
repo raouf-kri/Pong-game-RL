@@ -10,8 +10,8 @@ The goal of this project is to train an RL agent using various algorithms to pla
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Pong-RL.git
-    cd Pong-RL
+    git clone https://github.com/raouf-kri/Pong-game-RL.git
+    cd Pong-game-RL
     ```
 
 2. Install the required dependencies:
@@ -38,4 +38,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [raoufkh05000@gmail.com](mailto:raoufkh05000@gmail.com).
