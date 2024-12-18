@@ -32,10 +32,6 @@ The goal of this project is to train an RL agent using various algorithms to pla
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [raoufkh05000@gmail.com](mailto:raoufkh05000@gmail.com).
